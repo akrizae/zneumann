@@ -3,23 +3,23 @@ html {
   margin:0;
   padding:0;
   color:#000;
-  backbround:#a7a09a
+  backbround:#ECECEA
 }
 
 #wrap {
   width:750px;
   margin:0 auto;
-  background:#99c;
+  background:#558C89;
 }
 
 #header {
   padding:5px 10px;
-  background:#ddd;
+  background:#558C89;
 }
 
 h1 {
   margin:0;
-  color: red;
+  color:#D9853B;
   font-weight: bold;
   font-family: sans-serif;
   font-variant: small-caps;
@@ -36,7 +36,7 @@ h2 {
 
 #nav {
   padding: 5px 10px;
-  background:#c99;
+  background:#D9853B;
 }
 
 #nav ul{
@@ -55,20 +55,20 @@ h2 {
   float:left;
   width:480px;
   padding:10px;
-  background:#9c9;
+  background:#74AFAD;
 }
 
 #sidebar{
   float:right;
   width:230px;
   padding:10px;
-  background:#99c;
+  background:#558C89;
 }
 
 #footer{
   clear:both;
   padding:5px 10px;
-  background:#scc9;
+  background:#D9853B;
 }
 
 * html #footer {
